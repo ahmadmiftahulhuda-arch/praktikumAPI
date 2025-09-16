@@ -3,7 +3,7 @@
 
 # Laravel Testing Project
 
-![ahmadmiftahulhuda-arch](https://github.com/ahmadmiftahulhuda-arch/praktikumAPI.git/actions/workflows/laravel-tests.yml/badge.svg)
+![ahmadmiftahulhuda-arch](https://github.com/ahmadmiftahulhuda-arch/praktikumAPI/actions/workflows/laravel-tests.yml/badge.svg)
 
 
 
